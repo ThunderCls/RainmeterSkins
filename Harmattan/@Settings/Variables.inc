@@ -22,3 +22,4 @@ NetworkMaxDown=790000
 ;===========Other===========;
 ProcessInterval=5
 Substitute="&amp;":"&","&quot;":"","&Quot;":"","&lt;br&gt;":"","![CDATA[":"","]]":"","...":"","<":"",">":"","/PRE&gt;":"","PRE&gt;":"","&lt;":""
+Day="0":"SUN","1":"MON","2":"TUE","3":"WED","4":"THU","5":"FRI","6":"SAT"
